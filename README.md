@@ -19,6 +19,8 @@ xcode-select --install
 Download “Conda env” from the link, drag it to your download folder
 [Tensorflow Plugin - Metal - Apple Developer](https://developer.apple.com/metal/tensorflow-plugin/)
 
+![Screen Shot 2022-03-14 at 16 34 50](https://user-images.githubusercontent.com/91990283/158277919-1e6563a2-cc45-4599-a0c8-af719211557e.png)
+
 Follow the instruction on the web: copy the codes into terminal:
 chmod +x ~/Downloads/Miniforge3-MacOSX-arm64.sh
 
