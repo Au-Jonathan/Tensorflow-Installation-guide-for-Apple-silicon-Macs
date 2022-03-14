@@ -5,15 +5,15 @@ Reference Articles:
 [How To Install TensorFlow on M1 Mac (The Easy Way) | by Prabhat Kumar Sahu | Medium](https://caffeinedev.medium.com/how-to-install-tensorflow-on-m1-mac-8e9b91d93706)
 [Tensorflow Plugin - Metal - Apple Developer](https://developer.apple.com/metal/tensorflow-plugin/)
 
-Step 1: Install Homebrew, Xcode 
+# Step 1: Install Homebrew, Xcode 
 Go to the website [The Missing Package Manager for macOS (or Linux) — Homebrew](https://brew.sh), copy the following into terminal: 
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-Step 2: type the following in terminal
+# Step 2: type the following in terminal
 xcode-select --install
 
-Step 3: Install Miniforge
+# Step 3: Install Miniforge
 Download “Conda env” from the link, drag it to your download folder
 [Tensorflow Plugin - Metal - Apple Developer](https://developer.apple.com/metal/tensorflow-plugin/)
 
@@ -25,7 +25,7 @@ sh ~/Downloads/Miniforge3-MacOSX-arm64.sh
 Keep pressing yes/enter to go on for the installation, until it ask you “Do you wish the installer to initialize Miniforge3?”
 I typed no as I don’t want it to initialize every time.
 
-Step4: Activate the new environment miniforge3 that we have just created, then install tensorflow 
+# Step4: Activate the new environment miniforge3 that we have just created, then install tensorflow 
 
 source ~/miniforge3/bin/activate
 
@@ -41,7 +41,7 @@ conda install numpy
 
 (At a later stage it may complain not having NumPy so we can install it beforehand) 
 
-Step 5: Launch Jupiter notebook and test it out 
+# Step 5: Launch Jupiter notebook and test it out 
 jupyter notebook
 In the notebook, try the following:
 import tensorflow as tf
