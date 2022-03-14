@@ -50,7 +50,9 @@ conda install numpy
 (At a later stage it may complain not having NumPy so we can install it beforehand) 
 
 # Step 5: Launch Jupiter notebook and test it out 
+
 jupyter notebook
+
 In the notebook, try the following:
 
 import tensorflow as tf
