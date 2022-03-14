@@ -1,5 +1,8 @@
 # Tensorflow-Installation-guide-for-Apple-silicon-Macs
 This is a step by step guide for people who want to install Tensorflow module on their M1 Macs 
+Using the conventional installation method will return a dead kernal 
+
+![Screen Shot 2022-03-14 at 16 46 09](https://user-images.githubusercontent.com/91990283/158278876-a753e82c-cbd5-4805-a9a6-6e19ed579f69.png)
 
 Reference Articles:
 [How To Install TensorFlow on M1 Mac (The Easy Way) | by Prabhat Kumar Sahu | Medium](https://caffeinedev.medium.com/how-to-install-tensorflow-on-m1-mac-8e9b91d93706)
