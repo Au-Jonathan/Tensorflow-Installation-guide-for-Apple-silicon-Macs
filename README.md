@@ -71,7 +71,7 @@ Remember to activate this environment everytime you wanted to use tensorflow, Us
 source ~/miniforge3/bin/activate
 jupiter notebook 
 
-You can always check the python and see which direcotry it's pointing to. I have Anaconda3 initially and it's required to activate miniforge3 to get tensorflow working
+You can always check the python and see which direcotry it's pointing. I have Anaconda3 initially and it's required to activate miniforge3 to get tensorflow working
 
 ![Screen Shot 2022-03-14 at 16 54 28](https://user-images.githubusercontent.com/91990283/158279642-5027bfd2-e391-4844-85cf-1c6d6f606263.png)
 
