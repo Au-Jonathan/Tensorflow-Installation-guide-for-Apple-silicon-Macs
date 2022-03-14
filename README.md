@@ -6,11 +6,11 @@ Reference Articles:
 [Tensorflow Plugin - Metal - Apple Developer](https://developer.apple.com/metal/tensorflow-plugin/)
 
 # Step 1: Install Homebrew, Xcode 
-Go to the website [The Missing Package Manager for macOS (or Linux) — Homebrew](https://brew.sh), copy the following into terminal: 
+Go to the website [The Missing Package Manager for macOS (or Linux) — Homebrew](https://brew.sh), copy the following into terminal:
 
 ![Screen Shot 2022-03-14 at 16 30 46](https://user-images.githubusercontent.com/91990283/158277567-bf090563-1613-4738-8a12-89da910a7043.png)
 
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+Your code should look like this: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # Step 2: type the following in terminal
 xcode-select --install
