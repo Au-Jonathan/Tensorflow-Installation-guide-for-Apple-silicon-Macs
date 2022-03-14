@@ -59,9 +59,11 @@ import tensorflow as tf
 
 print(“Num GPUs Available: “, len(tf.config.experimental.list_physical_devices(‘GPU’)))
 
-It should not return any error 
+It should not return any error
 
-Remember to activate this environment everytime you wanna use tensorflow, Using the default one with Anaconda will always return me a dead kernel once I started to import tensorflow in Jupiter notebook 
+![Screen Shot 2022-03-14 at 16 44 56](https://user-images.githubusercontent.com/91990283/158278725-efe0af23-c87f-47b5-b363-5ab3006176f0.png)
+
+Remember to activate this environment everytime you wanted to use tensorflow, Using the default one with Anaconda will always return me a dead kernel once I started to import tensorflow in Jupiter notebook 
 
 source ~/miniforge3/bin/activate
 jupiter notebook 
