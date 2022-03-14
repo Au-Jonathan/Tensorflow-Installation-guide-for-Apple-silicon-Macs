@@ -1,5 +1,5 @@
 # Tensorflow-Installation-guide-for-Apple-silicon-Macs
-## This is a step by step guide for people who want to install Tensorflow module on their M1 Macs 
+## This is a step-by-step guide for people who want to install Tensorflow modules on M1 Mac 
 Using the conventional installation method will return a dead kernal 
 ![1*nzaiZv6656n20mLw8Sv7Vw](https://user-images.githubusercontent.com/91990283/158278956-87600dee-955b-40ff-a5a0-712abbb5ac28.jpeg)
 
