@@ -1,7 +1,7 @@
 # Tensorflow-Installation-guide-for-Apple-silicon-Macs
 ## This is a step-by-step guide for people who want to install Tensorflow modules on M1 Mac 
 ![1*nzaiZv6656n20mLw8Sv7Vw](https://user-images.githubusercontent.com/91990283/158278956-87600dee-955b-40ff-a5a0-712abbb5ac28.jpeg)
-# Using the conventional installation method will return a dead kernal 
+# Using the conventional installation method will return a dead kernal❗️
 ![Screen Shot 2022-03-14 at 16 46 09](https://user-images.githubusercontent.com/91990283/158278876-a753e82c-cbd5-4805-a9a6-6e19ed579f69.png)
 
 Reference Articles:
@@ -62,7 +62,7 @@ import tensorflow as tf
 
 print(“Num GPUs Available: “, len(tf.config.experimental.list_physical_devices(‘GPU’)))
 
-It should not return any error
+It should not return any error ✅✅✅
 
 ![Screen Shot 2022-03-14 at 16 44 56](https://user-images.githubusercontent.com/91990283/158278725-efe0af23-c87f-47b5-b363-5ab3006176f0.png)
 
