@@ -13,7 +13,7 @@ Go to the website [The Missing Package Manager for macOS (or Linux) — Homebrew
 
 ![Screen Shot 2022-03-14 at 16 30 46](https://user-images.githubusercontent.com/91990283/158277567-bf090563-1613-4738-8a12-89da910a7043.png)
 
-Your code should look like this: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+![Screen Shot 2022-03-14 at 17 01 50](https://user-images.githubusercontent.com/91990283/158280318-e74e706f-84bf-4d1c-bb43-544347fdc96e.png)
 
 # Step 2: Install Xcode by typing the following in terminal
 xcode-select --install
