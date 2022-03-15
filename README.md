@@ -1,5 +1,5 @@
 # Tensorflow-Installation-guide-for-Apple-silicon-Macs
-## This is a step-by-step guide for people who want to install Tensorflow modules on M1 Mac 
+## This is a step-by-step guide for people who want to install Tensorflow modules on M1 Mac. You can now leverage Apple’s tensorflow-metal PluggableDevice in TensorFlow v2.5 for accelerated training on Mac GPUs directly with Metal 
 ![1*nzaiZv6656n20mLw8Sv7Vw](https://user-images.githubusercontent.com/91990283/158278956-87600dee-955b-40ff-a5a0-712abbb5ac28.jpeg)
 # Using the conventional installation method will return a dead kernal❗️
 ![Screen Shot 2022-03-14 at 16 46 09](https://user-images.githubusercontent.com/91990283/158278876-a753e82c-cbd5-4805-a9a6-6e19ed579f69.png)
