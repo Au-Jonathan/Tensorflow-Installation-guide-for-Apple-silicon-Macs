@@ -33,7 +33,7 @@ sh ~/Downloads/Miniforge3-MacOSX-arm64.sh
 
 ![Screen Shot 2022-03-14 at 16 38 27](https://user-images.githubusercontent.com/91990283/158278232-d67b83ae-27a4-4047-a8a9-b037633fdd77.png)
 
-Keep pressing yes/enter to go on for the installation, until it ask you “Do you wish the installer to initialize Miniforge3?”
+Keep pressing yes/return to proceed with the installation, until it ask you “Do you wish the installer to initialize Miniforge3?”
 I typed no as I don’t want it to initialize every time.
 
 # Step4: Activate the new environment miniforge3 that we have just created, then install tensorflow 
